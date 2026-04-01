@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/binaek" target="blank"><img src="https://img.shields.io/twitter/follow/binaek?logo=twitter&style=for-the-badge" alt="binaek" /></a> </p>
 
-- 🔭 I’m currently working on [Steampipe](https://steampipe.io/)
+- 🔭 I’m currently working on [Sentrie](https://sentrie.sh/)
 
 - 📫 To reach me, drop a mail at **binaek89@gmail.com**
 
